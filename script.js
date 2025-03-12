@@ -7,9 +7,7 @@ class Person {
 	getName(){
 		return this.name;
 	}
-	setAge(n){
-		 this.age = n;
-	}
+
 }
 
 class Student extends Person {
