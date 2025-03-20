@@ -10,10 +10,10 @@ class Person {
 	get Name(){
 		return this._name;
 	}
-	setAge(n){
+	set Age(n){
 		this._age = n;
 	}
-	getAge(){
+	get Age(){
 		return this._age;
 	}
 
